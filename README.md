@@ -31,32 +31,15 @@ $ whoami
 
 ---
 
-## 🌌 what is this place?? Σ(‘◉⌓◉’Σ)???
+## 🌌 what is this place?? Σ('◉⌓◉'Σ)???
 ```shell
 $ ls -F projects/
 ```
 > 🪴 <span style="color:#ff69b4;">just a lil garden of personal experiments</span>  
-> 🛠️ <span style="color:#ff69b4;">tiny tools, half-broken ideas</span>  
-> 🪄 <span style="color:#ff69b4;">... maybe some magic</span>  
-> ✨ <span style="color:#ff69b4;">some broken code, some working spells</span>  
+> 🛠️ <span style="color:#ff69b4;">tiny tools, half-broken ideas, and maybe some magic</span>  
 > 🔥 <span style="color:#ff69b4;">forged in 42 fire</span> o(>ω<)o
 
 ---
-## ✨ A Little Spark of Wisdom ✨ (ง'̀-'́)ง
-
-> <span style="color:#ff69b4;font-style:italic;">"The only true wisdom is in knowing you know nothing. And then, you code."</span>
-> 🧠💫 (￣ー￣)ｂ
-
----
-
-<!--
-## 🪐 coming soon...
-
-* 🔗 portfolio [*to be conjured*]
-* 🧃 linkedin [*pending identity synthesis*]
-
----
--->
 
 <p align="center" style="color:#ff69b4;font-size:1.2em;">
   ◯ ☽ ◑ ● ◐ ☾ ◯
