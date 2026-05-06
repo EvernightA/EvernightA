@@ -31,10 +31,6 @@ $ whoami
 <img src="https://readme-typing-svg.herokuapp.com?font=Victor+Mono&size=36&duration=2000&pause=1200&color=ffb6c1&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+EvernightA;+a+42+Student;Crafting+with+C%2C+C%2B%2B%2C+Python%2C+and+Shell;Always+learning%2C+always+curious" alt="Typing SVG" />
 
 ---
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 
 <p align="center" style="color:#ff69b4;font-size:1.2em;">
   ◯ ☽ ◑ ● ◐ ☾ ◯
