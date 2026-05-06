@@ -12,13 +12,17 @@
 
 ---
 
-![C](https://img.shields.io/badge/C-ffb6c1?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-ff69b4?style=for-the-badge&logo=cpp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-f5c2e7?style=for-the-badge&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-ffb6c1?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-61dafb?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-262f36?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+  <!-- Language & Tool Badges with pink nuances -->
+  <img src="https://img.shields.io/badge/C-%23FFB6C1?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
+  <img src="https://img.shields.io/badge/C++-%23FF69B4?style=for-the-badge&logo=cpp&logoColor=white" alt="C++ Badge"/>
+  <img src="https://img.shields.io/badge/Python-%23F5C2E7?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Shell-%23FFB6C1?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Badge"/>
+  <img src="https://img.shields.io/badge/Docker-%23DEA5D7?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+  <img src="https://img.shields.io/badge/Linux-%23F8A8C8?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Badge"/>
+  <img src="https://img.shields.io/badge/Git-%23FF77A9?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+  <img src="https://img.shields.io/badge/VSCode-%23EA4AAA?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
+</div>
 
 ---
 ```shell
