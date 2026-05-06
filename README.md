@@ -4,7 +4,7 @@
      please stand by...
 -->
 
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/5f81ccd5-fe81-4abc-b407-2548ef32c73a" />
+<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/718da87b-5fd5-4a85-8d8b-d2d6b719ac2a" />
 
 <div align="center">
   <img src="https://img.shields.io/badge/42%20Student-%23ffb6c1?style=for-the-badge&logo=42&logoColor=white">
