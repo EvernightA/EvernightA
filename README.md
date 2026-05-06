@@ -15,7 +15,7 @@
 <div align="center">
   <!-- Language & Tool Badges with pink nuances -->
   <img src="https://img.shields.io/badge/C-%23FFB6C1?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
-  <img src="https://img.shields.io/badge/C++-%23FF69B4?style=for-the-badge&logo=cpp&logoColor=white" alt="C++ Badge"/>
+  <img src="https://img.shields.io/badge/C++-%23FF69B4?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-%23F5C2E7?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/Shell-%23FFB6C1?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Badge"/>
   <img src="https://img.shields.io/badge/Docker-%23DEA5D7?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
