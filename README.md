@@ -12,30 +12,16 @@
 
 ---
 
+![C](https://img.shields.io/badge/C-ffb6c1?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-ff69b4?style=for-the-badge&logo=cpp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-f5c2e7?style=for-the-badge&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-ffb6c1?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
 ```shell
 $ whoami
 ```
-> ➤ <span style="color:#ff69b4;">a girl immersed in logic, commands, and the pursuit of beautiful code</span> (｡•̀ᴗ-)✧    
-> ➤ <span style="color:#ff69b4;">a 42 student</span> ∠( ᐛ 」∠)_
-
----
-
-<h3 align="left" style="color:#ff69b4;">🛠(„• ֊ •„):</h3>
-
-> 🌊 <span style="color:#ff69b4;">C</span>  
-> 🪸 <span style="color:#ff69b4;">C++</span>  
-> 🐍 <span style="color:#ff69b4;">Python</span>  
-> 🐚 <span style="color:#ff69b4;">Shell</span>  
-
----
-
-## 🌌 what is this place?? Σ('◉⌓◉'Σ)???
-```shell
-$ ls -F projects/
-```
-> 🪴 <span style="color:#ff69b4;">just a lil garden of personal experiments</span>  
-> 🛠️ <span style="color:#ff69b4;">tiny tools, half-broken ideas, and maybe some magic</span>  
-> 🔥 <span style="color:#ff69b4;">forged in 42 fire</span> o(>ω<)o
+<img src="https://readme-typing-svg.herokuapp.com?font=Victor+Mono&size=36&duration=2000&pause=1200&color=ffb6c1&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+EvernightA;+a+42+Student;Crafting+with+C%2C+C%2B%2B%2C+Python%2C+and+Shell;Always+learning%2C+always+curious" alt="Typing SVG" />
 
 ---
 
