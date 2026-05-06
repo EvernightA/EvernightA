@@ -4,9 +4,7 @@
      please stand by...
 -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ffb6c1&height=180&section=header&fontSize=38&fontAlign=50&fontColor=ffffff&text=ᯓ★+Hello+World!+ᯓ★" alt="Pink Wavy Banner"/>
-</p>
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/5f81ccd5-fe81-4abc-b407-2548ef32c73a" />
 
 <div align="center">
   <img src="https://img.shields.io/badge/42%20Student-%23ffb6c1?style=for-the-badge&logo=42&logoColor=white">
