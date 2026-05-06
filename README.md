@@ -21,19 +21,14 @@
   <img src="https://img.shields.io/badge/Docker-%23DEA5D7?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
   <img src="https://img.shields.io/badge/Linux-%23F8A8C8?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Badge"/>
   <img src="https://img.shields.io/badge/Git-%23FF77A9?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-  <img src="https://img.shields.io/badge/VSCode-%23EA4AAA?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge"/>
+  <img src="https://img.shields.io/badge/VSCode-%23EA4AAA?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
 </div>
-
-<!-- GitHub Summary Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EvernightA&show_icons=true&theme=rose_pine&hide=prs&hide_border=true" alt="EvernightA's GitHub Stats" />
-</p>
 
 ---
 ```shell
 $ whoami
 ```
-<img src="https://readme-typing-svg.herokuapp.com?font=Victor+Mono&size=36&duration=2000&pause=1200&color=ffb6c1&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+EvernightA;+a+42+Student;Cr[...]
+<img src="https://readme-typing-svg.herokuapp.com?font=Victor+Mono&size=36&duration=2000&pause=1200&color=ffb6c1&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+EvernightA;+a+42+Student;Crafting+with+C%2C+C%2B%2B%2C+Python%2C+and+Shell;Always+learning%2C+always+curious" alt="Typing SVG" />
 
 ---
 
@@ -44,4 +39,3 @@ $ whoami
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ffb6c1&height=80&section=footer" alt="Pink Wavy Divider"/>
 </p>
-
