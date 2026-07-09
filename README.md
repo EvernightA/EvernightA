@@ -28,7 +28,7 @@
 ```shell
 $ whoami
 ```
-<img src="https://readme-typing-svg.herokuapp.com?font=Victor+Mono&size=36&duration=2000&pause=1200&color=ffb6c1&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+EvernightA;+a+42+Student;Crafting+with+C%2C+C%2B%2B%2C+Python%2C+and+Shell;Always+learning%2C+always+curious" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Victor+Mono&size=36&duration=2000&pause=1200&color=ffb6c1&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+EvernightA;+a+42+Student+(mratsima);Crafting+with+C%2C+C%2B%2B%2C+Python%2C+and+Shell;Always+learning%2C+always+curious" alt="Typing SVG" />
 
 ---
 
